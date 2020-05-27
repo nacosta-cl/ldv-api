@@ -1,0 +1,7 @@
+.env
+.env_db
+app/.nuxt
+.vscode
+.env_prod
+cmp_test
+cmp_test/*
