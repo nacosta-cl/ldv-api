@@ -20,7 +20,7 @@
     "@types/nodemailer": "^6.4.0",
     "@types/sequelize": "^4.28.8",
     "@types/validator": "^13.0.0",
-    "aws-sdk": "^2.596.0",
+    "aws-sdk": "^2.814.0",
     "bcrypt": "^3.0.7",
     "dotenv": "^8.2.0",
     "faker": "^4.1.0",
